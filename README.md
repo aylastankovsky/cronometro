@@ -1,1 +1,6 @@
 # cronometro
+
+#instalação
+
+yarn install
+
